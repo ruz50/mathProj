@@ -1,0 +1,21 @@
+.Button3{
+    width: 163px;
+    height:58px;
+    top: 361px;
+    position: absolute;
+    left: 850px;
+    padding: 5px 10px 5px 10px;
+    gap: 12px;
+    border-radius: 12px ;
+    background-color: rgba(255, 184, 77, 0.6);
+
+
+}
+.Button3>div{
+   
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+text-align: center;
+
+}

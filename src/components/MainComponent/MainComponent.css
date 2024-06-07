@@ -1,0 +1,10 @@
+.mainComponent {
+   
+    width: 1,160px;
+    height: 900px;
+    top: 112px;
+    left: 40px;
+    gap: 16px;
+    position: relative;
+
+}

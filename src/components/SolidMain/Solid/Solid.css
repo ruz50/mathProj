@@ -1,0 +1,10 @@
+.Solid{
+    width:331px;
+    height : 16px;
+    border-radius: 40px;
+    background-color: #F2FDFF;
+}
+.Solid>div>div:nth-child(2){
+    background-color: aqua;
+    width: 20px;
+}

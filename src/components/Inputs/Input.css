@@ -1,0 +1,44 @@
+.input-container {
+    display: flex;
+    align-items: center;
+    width:1,000.51px;
+    position: absolute;
+    top: 264px;
+    left:35px;
+    gap: 12px;
+
+  }
+  
+  input {
+    width: 50px;
+    height: 72px;
+    padding: 8px 20px;
+    border-radius: 12px;
+    border: 1px solid transparent; 
+    opacity: 1; 
+    border: 1px solid black;
+    text-align: center;
+  }
+  
+.groupImg{
+    width: 22.63px;
+    height: 40.31px;
+
+
+  }
+ .elips{
+    width: 16px;
+    height: 16px;
+  } 
+  .ravno {
+    width: 22px; 
+    height: 32px; 
+    opacity: 1;
+  }
+  
+  .divFirst, .divSecond {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+  }
+  

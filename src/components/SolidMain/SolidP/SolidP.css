@@ -1,0 +1,6 @@
+.solidP{
+    width: 331px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+}

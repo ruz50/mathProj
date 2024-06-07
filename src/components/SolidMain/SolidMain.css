@@ -1,0 +1,32 @@
+.Solidmainn{
+    width: 1360px;
+    height: 72px;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.SolidMain{
+    width:363px ;
+    height: 72px;
+    border-radius: 24px;
+    padding: 11px 16px 11px 16px;
+    gap: 8px;
+    
+
+}
+.SolidMain>div>p{
+    width:363px;
+    height: 72px;
+    border-radius: 24px;
+    padding: 25px 40px 25px 40px;
+    gap: 10px;
+}
+.btnSolid{
+    width: 582px;
+    height: 72px;
+    gap: 16px;
+    display: flex;
+    justify-content: flex-start;
+
+}

@@ -1,0 +1,57 @@
+.clear{
+    width: 166px;
+    height: 100px;
+    top: 119px;
+    left: 672px;
+    gap: 0px;
+    border-radius: 12px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+}
+.vector1{
+    width: 39px;
+    position: absolute;
+height: 46px;
+top: 219px;
+left: 851px;
+gap: 0px;
+border: 1px 0px 0px 0px;
+
+   
+}
+
+.vector2{
+    width: 39px;
+    height: 46px;
+    position: absolute;
+    top: 219px;
+    left: 960px;
+    border: 1px solid transparent; 
+    transform: rotate(180deg); 
+    background-color: white;
+
+
+    
+}
+
+.vectroPardiv{
+    position: absolute;
+    width: 124px;
+    height: 46px;
+    top: 219px;
+    left: 750px;
+    border: 1px ;
+
+}
+
+.clearAll{
+    width: 166px;
+    position: absolute;
+    height: 56px;
+    top: 119px;
+    left: 850px;
+    padding: 16px 12px 16px 12px;
+    gap: 12px;
+    border-radius: 12px ;
+    background-color: rgba(255, 184, 77, 1);
+
+}

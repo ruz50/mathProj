@@ -1,0 +1,29 @@
+.Awesome{
+    width: 258px;
+    height: 103px;
+    top: 473px;
+    left: 1078px;
+    padding: 12px 8px 12px 8px;
+    position: absolute;
+   
+}
+.Awesome>img{
+    width: 80px;
+    height: 80px;
+    margin-top: 10px;
+}
+
+.Awesome>button{
+    width:154px;
+    height: 74px;
+    padding: 24px ;
+    gap: 12px;
+    border-radius: 16px ;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 25.62px;
+    letter-spacing: 0.015em;
+    text-align: left;
+    
+    border: none;
+}
